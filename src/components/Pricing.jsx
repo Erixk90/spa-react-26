@@ -17,7 +17,7 @@ export default function Pricing() {
         </Reveal>
         <Reveal>
           <p className="section-desc" style={{ margin: '0 auto', textAlign: 'center' }}>
-            Precios pensados para el empresario barranquillero que quiere crecer.
+            Precios pensados para el empresario moderno que quiere crecer.
           </p>
         </Reveal>
 

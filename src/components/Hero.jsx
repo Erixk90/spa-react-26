@@ -65,7 +65,7 @@ export default function Hero() {
         </div>
 
         <div className="hero-stats">
-          <StatCounter target={30} suffix="+" label="Proyectos entregados" />
+          <StatCounter target={20} suffix="+" label="Proyectos entregados" />
           <StatCounter target={7} suffix="+" label="Días de entrega" />
           <StatCounter target={100} suffix="%" label="Satisfacción" />
         </div>

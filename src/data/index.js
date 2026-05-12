@@ -86,7 +86,7 @@ export const WHY_ITEMS = [
 export const PLANS = [
     {
         name: 'Básico',
-        price: '600',
+        price: '300',
         period: 'USD — pago único',
         featured: false,
         features: [
@@ -107,11 +107,11 @@ export const PLANS = [
         featured: true,
         features: [
             'Todo lo del plan Básico',
+            'Diseño destacado',
             'Bot de WhatsApp incluido',
-            'SEO local optimizado',
-            'Google Analytics + Píxel FB',
-            '3 meses de soporte incluido',
-            'Entrega en 5 días',
+            '6 meses de soporte incluido',
+            'Entrega en 7 días',
+            'Acompañamiento Constante'
         ],
         btnLabel: '💬 Quiero el Plan Pro',
         btnStyle: 'grad-btn',
@@ -126,7 +126,7 @@ export const PLANS = [
             'Todo lo del plan Pro',
             'Bot avanzado con IA (ChatGPT)',
             'Múltiples páginas / secciones',
-            'Pasarela de pagos integrada',
+            'Diseño maximixado en teléfono',
             '6 meses de soporte incluido',
             'Entrega en 10 días',
         ],
@@ -158,13 +158,13 @@ export const CHAT_MSGS = [
     { type: 'user', text: '¿Cuánto cuesta una página web?', time: '10:33' },
     {
         type: 'bot',
-        text: 'Tenemos planes desde $600 USD con pago único. ¿Qué tipo de negocio tienes? 😊',
+        text: 'Tenemos planes desde $300 USD con pago único. ¿Qué tipo de negocio tienes? 😊',
         time: '10:33',
     },
-    { type: 'user', text: 'Tengo un restaurante en el norte', time: '10:34' },
+    { type: 'user', text: 'Tengo un Buffet de Abogados', time: '10:34' },
     {
         type: 'bot',
-        text: '¡Perfecto! Para restaurantes recomiendo el Plan Pro: página + bot de reservas + SEO local. ¿Te envío los detalles? 🍽️',
+        text: '¡Perfecto! Para profesionales recomiendo el Plan Pro: página + bot de reservas + SEO local. ¿Te envío los detalles? 😊',
         time: '10:34',
     },
     { type: 'user', text: 'Sí, me interesa', time: '10:35' },
