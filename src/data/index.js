@@ -178,9 +178,9 @@ export const CHAT_MSGS = [
 export const TESTIMONIALS = [
     {
         initials: 'MR',
-        name: 'María Rodríguez',
-        biz: 'Restaurante La Costa, Barranquilla',
-        text: '"Mi restaurante tiene el doble de reservas desde que lanzamos la página. El bot de WhatsApp atiende a los clientes y yo solo recibo los pedidos confirmados. ¡Increíble!"',
+        name: 'Yeferson Jimenez',
+        biz: 'Abogados Barranquilla',
+        text: '"Mi Oficina tiene el doble de Llamadas desde que lanzamos la página. Muy seguro y buenos resultados, es mas salgo de primero en google y en chat gpt. ¡Increíble!"',
     },
     {
         initials: 'JM',
